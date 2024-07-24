@@ -1,0 +1,44 @@
+{
+    "workouts": [
+        {
+            "id": 1,
+            "workout_name": "Running",
+            "calorie_chart": 600
+        },
+        {
+            "id": 2,
+            "workout_name": "Cycling",
+            "calorie_chart": 500
+        },
+        {
+            "id": 3,
+            "workout_name": "Swimming",
+            "calorie_chart": 700
+        },
+        {
+            "id": 4,
+            "workout_name": "Yoga",
+            "calorie_chart": 300
+        },
+        {
+            "id": 5,
+            "workout_name": "Push-ups",
+            "calorie_chart": 300
+        },
+        {
+            "id": 6,
+            "workout_name": "Sit-ups",
+            "calorie_chart": 500
+        },
+        {
+            "id": 7,
+            "workout_name": "Squats",
+            "calorie_chart": 300
+        },
+        {
+            "id": 8,
+            "workout_name": "Jumping Jacks",
+            "calorie_chart": 700
+        }
+    ]
+}
